@@ -17,7 +17,7 @@ body{
   height: 1440px;
   padding: 24px;
   border-radius: 24px;
-  margin: 48px auto;
+  margin: 48px auto 28px;
 }
 .alice-regular {
   font-family: "Alice", serif;
@@ -52,4 +52,11 @@ ul{
 #about{
   margin-top: 12px;
 }
-
+footer{
+  color: #F0E8C2;
+  text-align: center;
+  padding-bottom: 48px;
+}
+footer img{
+  vertical-align: middle;
+}
